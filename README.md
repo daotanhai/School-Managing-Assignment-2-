@@ -1,2 +1,2 @@
-# quanLyTruongHocJava
-Bài tập thực tế về quản lí thông tin một trường học bao gồm học sinh và giáo viên
+# School-Managing
+Assignment 2 - Advanced programming - Dao Tan Hai - University of Greenwich
